@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Raul
 
-<!--
-**raulabdullazade/raulabdullazade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Kocaeli University  
+💻 Interested in frontend development and software engineering  
+🚀 Building my skills through independent projects and internship experience  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm Raul Abdullazade, a Computer Engineering student who enjoys turning ideas into practical applications.
+
+- 🌐 I work with **HTML, CSS, and JavaScript** to build web interfaces
+- 💼 Completed a **two-month Frontend Development internship at SetClapp**
+- 🏢 Also gained internship experience at **Caspos MMC**
+- ☕ My university projects include **Java** applications
+- 📚 I continue learning through hands-on practice and independent projects
+
+---
+
+## 🧱 Approach
+
+- Break down complex problems into manageable steps
+- Write clear, organized, and maintainable code
+- Pay attention to usability and responsive design
+- Improve through practice, feedback, and collaboration
+
+---
+
+## 🛠️ Technologies
+
+**HTML · CSS · JavaScript · Java**
+
+---
+
+## 🎯 Goals
+
+- Strengthen my frontend development skills
+- Build a portfolio of practical projects
+- Grow as a software developer through real-world experience
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/raul-abdullazade-90a150337/)
